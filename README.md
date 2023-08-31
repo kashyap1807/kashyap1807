@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Canteen Management System.**
+- 🔭 I’m currently working on **WhatsApp Clone.**
 
 - 🌱 I’m currently learning **Machine Learning & Python.**
 
