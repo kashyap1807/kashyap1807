@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kashyap Chudasama</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+- 🚀 I'm enthusiastic about coding and crafting innovative solutions.
+
+- 💻 I thrive in the MERN (MongoDB, Express.js, React, Node.js) stack. Creating interactive and user-friendly web experiences is my forte.
+
+- 🌱 Learning is a continuous journey for me. I'm dedicated to expanding my skillset and staying up-to-date with the latest trends in technology.
+
 - 🔭 I’m currently working on **WhatsApp Clone.**
 
-- 🌱 I’m currently learning **Machine Learning & Python.**
-
-- 👯 I’m looking to collaborate on **any MERN project.**
-
-- 💬 Ask me about **Node.**
+- 📬 Let's connect! Feel free to reach out if you want to collaborate on exciting projects or discuss tech trends. 🤝
 
 - 📫 How to reach me **kashyapchudasama0@gmail.com**
-
-- ⚡ Fun fact **Are you Thinking about me ?**
 
 
 <h3 align="left">Languages and Tools:</h3>
