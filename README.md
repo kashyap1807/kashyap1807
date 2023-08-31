@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any MERN project.**
 
-- 💬 Ask me about **React .**
+- 💬 Ask me about **Node.**
 
 - 📫 How to reach me **kashyapchudasama0@gmail.com**
 
