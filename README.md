@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashyap Chudasama</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate B.Tech Information Technology student at BVM.🎓</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **WhatsApp Clone.**
 
-- 📬 Let's connect! Feel free to reach out if you want to collaborate on exciting projects or discuss tech trends. 🤝
+- 📬 Let's connect! Feel free to reach out if you want to collaborate on exciting projects or discuss tech trends. {**kashyapchudasama0@gmail.com**}🤝
 
-- 📫 How to reach me **kashyapchudasama0@gmail.com**
+- 📃 More About me **https://drive.google.com/file/d/1xNc-f2nncqttn0WJJtD3-Q0PUAYYSwPT/view?usp=sharing**
 
 
 <h3 align="left">Languages and Tools:</h3>
