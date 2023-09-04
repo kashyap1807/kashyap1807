@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **WhatsApp Clone.**
 
-- 📃 More About me **https://drive.google.com/file/d/1xNc-f2nncqttn0WJJtD3-Q0PUAYYSwPT/view?usp=sharing**
+- 📃 More About me **https://drive.google.com/file/d/1c5QyyBMbvrpaOI_UTepukTQ2xNKVKI1y/view?usp=sharing**
 
 - 📬 Let's connect! Feel free to reach out if you want to collaborate on exciting projects or discuss tech trends. {**kashyapchudasama0@gmail.com**}🤝
 
