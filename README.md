@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kashyap Chudasama</h1>
 <h3 align="center">A passionate B.Tech Information Technology student at BVM.🎓</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 - 🚀 I'm enthusiastic about coding and crafting innovative solutions.
