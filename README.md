@@ -9,8 +9,6 @@
 
 - 🌱 Learning is a continuous journey for me. I'm dedicated to expanding my skillset and staying up-to-date with the latest trends in technology.
 
-- 🔭 I’m currently working on **WhatsApp Clone.**
-
 - 📃 More About me **https://kashyappportfolio.netlify.app/**
 
 - 📬 Let's connect! Feel free to reach out if you want to collaborate on exciting projects or discuss tech trends. {**kashyapchudasama0@gmail.com**}🤝
