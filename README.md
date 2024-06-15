@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kashyap Chudasama</h1>
-<h3 align="center">A passionate B.Tech Information Technology student at BVM.🎓</h3>
+<h3 align="center">A passionate B.Tech Information Technology student from BVM.🎓</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 🚀 I'm enthusiastic about coding and crafting innovative solutions.
-
-- 💻 I thrive in the MERN (MongoDB, Express.js, React, Node.js) stack. Creating interactive and user-friendly web experiences is my forte.
+- 👨🏻‍💻 Graduate Trainee At CIVICA **https://www.civica.com/en-in/**
+  
+- 💻 I thrive in the MERN (MongoDB, Express.js, React, Node.js) stack, and I've expanded my expertise to include .NET technologies like ASP.NET and MVC, as well as   
+      AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.
 
 - 🌱 Learning is a continuous journey for me. I'm dedicated to expanding my skillset and staying up-to-date with the latest trends in technology.
 
