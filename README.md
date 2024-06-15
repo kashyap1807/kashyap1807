@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Graduate Trainee At CIVICA **https://www.civica.com/en-in/**
   
-- 💻 I thrive in the MERN (MongoDB, Express.js, React, Node.js) stack, and I've expanded my expertise to include .NET technologies like ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.
+- 💻 I thrive in the MERN (MongoDB, Express.js, React, Node.js) stack, and I've expanded my expertise into .NET technologies like ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.
 
 - 📃 More About me **https://kashyappportfolio.netlify.app/**
 
