@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 👨🏻‍💻 Jr.Software Engineer At CIVICA **https://www.civica.com/en-in/**
+- 👨🏻‍💻 Jr.Software Engineer At [CIVICA](https://www.civica.com/en-in/)
   
-- 💻 I thrive in the MERN (MongoDB, Express.js, React, Node.js) stack, and I've expanded my expertise into .NET technologies like ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.
+- 💻 I thrive in the MERN stack, and I've expanded my expertise into .NET technologies like ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.
 
 - 📃 More About me **https://kashyappportfolio.netlify.app/**
 
