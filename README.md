@@ -7,7 +7,7 @@
   
 - 💻 I thrive in the MERN stack, and I've expanded my expertise into .NET technologies like ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.
 
-- 📃 More About me **https://kashyappportfolio.netlify.app/**
+- 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
 - 📬 Let's connect! Feel free to reach out if you want to collaborate on exciting projects or discuss tech trends. {**kashyapchudasama0@gmail.com**}🤝
 
