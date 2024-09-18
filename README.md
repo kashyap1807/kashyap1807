@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Jr.Software Engineer At [CIVICA](https://www.civica.com/en-in/)
   
-- 💻 I've expanded my expertise into .NET technologies like ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.(I'm proficient in MERN stack also.)
+- 💻 I've expanded my expertise into .NET technologies & framework such as ASP.NET and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.(I'm proficient in MERN stack also.)
 
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
