@@ -28,8 +28,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
-<a href="[https://reactjs.org/](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16)" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/4eb25b19-08ce-4090-be9a-881cc0e8fc36)
-" alt="react" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=sql%20server%20management%20studio%20logo&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F32%2Fa0%2F3a%2F32a03aee0c76419ec5bde950a62883bc.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmicrosoft-sql-server-management-studio-ssms--744853225869987385%2F&docid=J2nr8V_-4QRzYM&tbnid=0Uvq5mLTAyFbXM&vet=12ahUKEwiwwI3Zi9GJAxWRR2wGHaEgC44QM3oECF8QAA..i&w=670&h=400&hcb=2&ved=2ahUKEwiwwI3Zi9GJAxWRR2wGHaEgC44QM3oECF8QAA" alt="react" width="40" height="40"/> </a> 
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   
