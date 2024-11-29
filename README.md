@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 👨🏻‍💻 Jr.Web Developer At [PRUDENT](https://www.prudentcorporate.com/home)
+- 👨🏻‍💻 Jr.Software Developer At [PRUDENT](https://www.prudentcorporate.com/home)
   
 - 💻 I've expanded my expertise into .NET technologies & framework such as .NET Core and MVC, as well as   AngularCLI, TypeScript, SQL, and SSMS. Creating interactive and user-friendly web experiences is my forte.(I'm proficient in MERN stack also.)
 
