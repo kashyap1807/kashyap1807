@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Microsoft_SQL_Server_Logo.svg" alt="sql server management studio" width="40" height="40"/>
+    <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="sql server management studio" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
