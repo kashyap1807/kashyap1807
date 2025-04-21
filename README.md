@@ -7,14 +7,13 @@
 
 - 👨🏻‍💻 Full Stack Developer At [PRUDENT](https://www.prudentcorporate.com/home)
   
-- 💻 Currently working & learning .NET Core, Angular, Azure Services And SSMS. 
+- 💻 Currently working & learning .NET Core, Angular, Azure Services And SSMS.
+
+- 🎯 Aim for best code quality and smooth coding.
+
+- 💥 Always excited about leaning new things and implement it.
 
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
-
-
-
-
-
 
 
 
@@ -76,7 +75,6 @@
   <a href="https://x.com/kashyapp_01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyapp_01" height="30" width="40" />
   </a>
-  <a> Email : kashyapchudasama0@gmail.com</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
