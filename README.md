@@ -11,12 +11,8 @@
 
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
-- 📬 Feel free to reach out. {**kashyapchudasama0@gmail.com**}🤝
 
-
-
-
-<h2 align="left">I code with:</h2>
+<h2 align="left">🌱 I code with :</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -56,7 +52,7 @@
 </div>
 
 
-<h2 align="left">GitHub Stats:</h2>
+<h2 align="left">📈 GitHub Stats :</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyap1807&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -66,17 +62,15 @@
 </div>
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">📬 Connect :</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/in/kashyap-chudasama-a17a6b238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kashyap-chudasama-a17a6b238" height="30" width="40" /></a>
-<a href="https://x.com/kashyapp_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyapp_01" height="30" width="40" /></a>
-
+  <a href="https://linkedin.com/in/in/kashyap-chudasama-a17a6b238" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kashyap-chudasama-a17a6b238" height="30" width="40" />
+  </a>
+  <a href="https://x.com/kashyapp_01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyapp_01" height="30" width="40" />
+  </a>
+  {**kashyapchudasama0@gmail.com**}
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashyap1807/kashyap1807/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashyap1807/kashyap1807/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kashyap1807/kashyap1807/output/pacman-contribution-graph.svg">
-</picture>
