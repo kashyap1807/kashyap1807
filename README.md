@@ -12,6 +12,12 @@
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
 
+
+
+
+
+
+
 <h2 align="left">🌱 I code with :</h2>
 
 <div align="left">
@@ -70,7 +76,7 @@
   <a href="https://x.com/kashyapp_01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyapp_01" height="30" width="40" />
   </a>
-  {**kashyapchudasama0@gmail.com**}
+  <a> Email : kashyapchudasama0@gmail.com</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
