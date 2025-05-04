@@ -73,6 +73,8 @@
   <a href="https://x.com/kashyapp_01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyapp_01" height="30" width="40" />
   </a>
+</p>
+<p align="left">
   <a href="https://buymeacoffee.com/kashyap1807?new=1" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
