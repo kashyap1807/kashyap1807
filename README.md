@@ -9,7 +9,7 @@
   
 - 💻 Currently working & learning .NET Core, Angular, Azure Services And SSMS.
 
-- 🎯 Aim for best code quality and smooth coding practice.
+- 🎯 Aim for best code quality and smooth coding practise.
 
 - 💥 Always excited about leaning new things and implement it.
 
