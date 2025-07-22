@@ -11,8 +11,6 @@
 
 - 🎯 Aim for best code quality and smooth coding practise.
 
-- 💥 Always excited about leaning new things and implement it.
-
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
 
