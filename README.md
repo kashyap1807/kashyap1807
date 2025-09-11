@@ -1,7 +1,5 @@
-
-<h1 align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
-  Hi, There <span className="wave" role="img" aria-labelledby="wave">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
+<h1 align="center">Hi, There <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span></h1>
                 
@@ -68,14 +66,14 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: kashyap-chudasama-a17a6b238" height="30" width="40" />
   </a>  
   <a href="https://x.com/kashyapp_01" target="blank">
-    <img align="center" src="https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg" alt="X: kashyapp_01" height="30" width="40" />
+    <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebc6c19c2fe31de94c78e_X-vector-logo-download.png" alt="X: kashyapp_01" height="30" width="40" />
   </a>
 </p>
 
 <h2 align="left">☕ Support :</h2>
 <p align="left">
   <a href="https://buymeacoffee.com/kashyap1807?new=1" target="_blank">
-    <img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebc6c19c2fe31de94c78e_X-vector-logo-download.png" alt="Buy Me A Coffee" height="41" width="174">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
 
