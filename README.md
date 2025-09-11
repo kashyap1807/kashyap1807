@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
 <h1 align="center">Hi, There <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span></h1>
@@ -63,10 +64,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/kashyap-chudasama-a17a6b238" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: kashyap-chudasama-a17a6b238" height="30" width="40" />
-  </a>
-  <!-- Updated Twitter to X -->
+  </a>  
   <a href="https://x.com/kashyapp_01" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (formerly Twitter): kashyapp_01" height="30" width="40" />
+    <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg](https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg)" alt="X (formerly Twitter): kashyapp_01" height="30" width="40" />
   </a>
 </p>
 
@@ -78,4 +78,4 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
+
