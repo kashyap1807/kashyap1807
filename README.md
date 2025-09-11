@@ -66,7 +66,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: kashyap-chudasama-a17a6b238" height="30" width="40" />
   </a>  
   <a href="https://x.com/kashyapp_01" target="blank">
-    <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg](https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg)" alt="X (formerly Twitter): kashyapp_01" height="30" width="40" />
+    <img align="center" src="https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg" alt="X: kashyapp_01" height="30" width="40" />
   </a>
 </p>
 
