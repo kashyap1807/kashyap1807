@@ -1,7 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" /> </p>
-<h1 align="center">Hi, There <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span></h1>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=kashyap1807&label=Profile%20views&color=0e75b6&style=flat" alt="kashyap1807" />
+  </div>
+  <div style="flex-grow: 1; text-align: center;">
+    <h1 style="margin: 0;">
+      Hi, There <span role="img" aria-labelledby="wave">👋🏻</span>
+    </h1>
+  </div>
+</div>
                 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
