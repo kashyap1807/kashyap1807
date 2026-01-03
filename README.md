@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 👨🏻‍💻 Full-stack developer with 1.8+ year of experience building scalable web applications using ASP.NET Core, Angular, Azure,SQL & CI/CD pipelines. Strong focus on performance optimization, secure authentication, and cloud-native deployment. Proven ability to deliver robust features with high code quality and testing standards that driven business growth.
+- 👨🏻‍💻 Result driven Full-stack developer with 2+ years of experience working on enterprise-level applications using .NET Core, Angular/React, Azure, SQL, Postgresql & CI/CD pipelines with a focus on microservices architecture, secure authentication and cloud infrastructure. Contributing to projects that emphasize clean code, collaborative development, and robust deployment processes that driven Business Growth.
 
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
