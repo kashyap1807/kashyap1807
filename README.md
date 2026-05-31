@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 👨🏻‍💻 Result driven Full-stack developer with 2+ years of experience working on enterprise-level applications using .NET Core, Angular, Azure, SQL, Postgresql, CI/CD pipelines & Agile Methodology with a focus on microservices architecture, performance optimization and cloud infrastructure. Contributing to projects that emphasize clean code, collaborative development, and robust deployment processes that driven Business Growth.
+- 👨🏻‍💻 Result driven Software Engineer with 2.5+ years of experience building and supporting enterprise-scale applications using .NET Core, Angular, Azure, SQL, Postgresql, CI/CD pipelines & Agile Methodology with a focus on microservices architecture, performance optimization, cloud infrastructure & skilled in AI-assisted development. Contributing to projects that emphasize clean code, collaborative development, and robust deployment processes that driven Business Growth.
 
 - 📃 More About me [Portfolio](https://kashyappportfolio.netlify.app/)
 
